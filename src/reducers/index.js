@@ -1,10 +1,11 @@
 import { combineReducers } from "redux";
+
 const songReducer = () => {
   return [
-    { title: "All Star", duration: "4:15" },
-    { title: "Blank Space", duration: "6:05" },
-    { title: "We Go So Far", duration: "3:59" },
-    { title: "Save the Tears", duration: "4:39" },
+    { title: "King", duration: "3:35", img: "king" },
+    { title: "Blank Space", duration: "6:05", img: "blank" },
+    { title: "Chasing Highs", duration: "3:15", img: "Chasing" },
+    { title: "Save the Tears", duration: "4:39", img: "save" },
   ];
 };
 
