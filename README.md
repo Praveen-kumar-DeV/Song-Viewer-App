@@ -6,6 +6,8 @@ A project that helps to understand the concepts of Redux
 
 - React JS
 - Redux
+# Screenshot
+![SongGit](https://github.com/Praveen-kumar-DeV/Song-Viewer-App/assets/121147550/97098054-9d7c-4010-ac42-3e707d38fbd0)
 
 ## Available Scripts
 
