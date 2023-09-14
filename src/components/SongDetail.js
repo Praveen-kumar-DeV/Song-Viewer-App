@@ -7,11 +7,8 @@ const SongDetail = ({ song }) => {
   }
   return (
     <div>
-      <h3>Details for :</h3>
-      <p>
-        Title :
-        <br />
-      </p>
+      <h3>Details for Song :</h3>
+      
       <div className="ui card">
         <div className="image">
           <img src={`/images/${song.img}.jpeg`} />
